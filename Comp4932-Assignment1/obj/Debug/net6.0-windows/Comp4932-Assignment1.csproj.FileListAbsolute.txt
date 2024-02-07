@@ -14,6 +14,6 @@ C:\Users\victo\source\repos\Comp4932-Assignment1\Comp4932-Assignment1\obj\Debug\
 C:\Users\victo\source\repos\Comp4932-Assignment1\Comp4932-Assignment1\obj\Debug\net6.0-windows\Comp4932-Assignment1.genruntimeconfig.cache
 C:\Users\victo\source\repos\Comp4932-Assignment1\Comp4932-Assignment1\obj\Debug\net6.0-windows\ref\Comp4932-Assignment1.dll
 C:\Users\victo\source\repos\Comp4932-Assignment1\Comp4932-Assignment1\obj\Debug\net6.0-windows\Comp4932_Assignment1.Properties.Resources.resources
-C:\Users\victo\source\repos\Comp4932-Assignment1\Comp4932-Assignment1\obj\Debug\net6.0-windows\Comp4932_Assignment1.DestinationImage.resources
-C:\Users\victo\source\repos\Comp4932-Assignment1\Comp4932-Assignment1\obj\Debug\net6.0-windows\Comp4932_Assignment1.SourceImage.resources
-C:\Users\victo\source\repos\Comp4932-Assignment1\Comp4932-Assignment1\obj\Debug\net6.0-windows\Comp4932_Assignment1.Morph.resources
+C:\Users\victo\source\repos\Comp4932-Assignment1\Comp4932-Assignment1\obj\Debug\net6.0-windows\Comp4932_Assignment1.Morpher.resources
+C:\Users\victo\source\repos\Comp4932-Assignment1\Comp4932-Assignment1\obj\Debug\net6.0-windows\Comp4932_Assignment1.Image.resources
+C:\Users\victo\source\repos\Comp4932-Assignment1\Comp4932-Assignment1\obj\Debug\net6.0-windows\Comp4932_Assignment1.Manager.resources
